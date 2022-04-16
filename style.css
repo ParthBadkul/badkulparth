@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;500;800&display=swap');
+*{
+
+    margin: 0px;
+    padding: 0px;
+
+}
+body{
+    background-color: rgb(25, 23, 23);
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+}
+
+header{
+
+    text-align: center;
+    width: 100vw;
+    background-color: rgb(41, 37, 37);
+    color: white;
+    font-size: 20px;
+    padding: 2px;
+}
+
+.container{
+
+    text-align: center;
+    
+}
+
+.cont{
+/* margin: 50px; */
+    /* width: 100vw; */
+    margin-top: 40px;
+    text-align: left;
+  /* font-family: Georgia, 'Times New Roman', Times, serif; */
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+    color: rgb(96, 168, 231);
+    padding: 10px;
+    font-size: medium;
+    
+}
+
+p{
+    width: 40%;
+}
+
+.edu{
+        /* margin-left: 2vh;
+        margin-top: 17px; */
+        
+        margin: auto;
+    color: azure;
+    /* font-family: mons; */
+    /* width: 89vh; */
+    font-size: 12px;
+    text-align: left;
+    padding: 10px;
+}
+.incollege{
+    color: bisque;
+    margin-top: 0.5px;
+    
+}
